@@ -1,0 +1,279 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="AyE.mx" group-title="Mexico ➾ LifeStyle",MX: A&E
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9117
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ LifeStyle",MX: ADN 40
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/5799
+#EXTINF:0 tvg-id="AzClic.mx" group-title="Mexico ➾ LifeStyle",MX: Az Clic
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9035
+#EXTINF:0 tvg-id="AzCorazon.mx" group-title="Mexico ➾ LifeStyle",MX: Az Corazon
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2999
+#EXTINF:0 tvg-id="AzMundo.mx" group-title="Mexico ➾ LifeStyle",MX: Az Mundo
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3000
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Mexico ➾ LifeStyle",MX: AZTECA 7
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9026
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ LifeStyle",MX: AZTECA Uno
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9025
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ LifeStyle",MX: Canal 5
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9024
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ LifeStyle",MX: Canal 10 Cancun
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/147894
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ LifeStyle",MX: Canal 26
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/7043
+
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Sports",MX: Adrenalina Sports Network
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/290478
+#EXTINF:0 tvg-id="AyMSports.mx" group-title="Mexico ➾ Sports",MX: AyM Sports
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9074
+#EXTINF:0 tvg-id="ClaroSports.mx" group-title="Mexico ➾ Sports",MX: Claro Sports
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3012
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Sports",MX: Claro Sports 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297205
+#EXTINF:0 tvg-id="ESPN.mx" group-title="Mexico ➾ Sports",MX: ESPN
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9070
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Mexico ➾ Sports",MX: ESPN 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298057
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Mexico ➾ Sports",MX: ESPN 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/38603
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Sports",MX: ESPN Extra
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/38607
+#EXTINF:0 tvg-id="Europa.mx" group-title="Mexico ➾ Sports",MX: Europa Europa
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9130
+
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Football",MX: Afizzionados
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298042
+
+#EXTINF:0 tvg-id="AMC.mx" group-title="Mexico ➾ Movie",MX: AMC
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9083
+#EXTINF:0 tvg-id="AXN.mx" group-title="Mexico ➾ Movie",MX: AXN
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9138
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Movie",MX: Az Cinema
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9108
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Movie",MX: BitMe
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/47946
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Mexico ➾ Movie",MX: Cinecanal
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9128
+#EXTINF:0 tvg-id="CineLatino.mx" group-title="Mexico ➾ Movie",MX: CineLatino
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/167062
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Mexico ➾ Movie",MX: Cinemax
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9080
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Movie",MX: Claro Cinema
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8706
+#EXTINF:0 tvg-id="ComedyCentral.mx" group-title="Mexico ➾ Movie",MX: Comedy Central
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9106
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="Mexico ➾ Movie",MX: De Pelicula
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/31740
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Movie",MX: De Pelicula Plus
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298053
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Movie",MX: Discovery Theater
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9151
+#EXTINF:0 tvg-id="FX.mx" group-title="Mexico ➾ Movie",MX: FX
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9105
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Movie",MX: Golden Plus
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3051
+#EXTINF:0 tvg-id="StudioUniversal.mx" group-title="Mexico ➾ Movie",MX: Studio Universal
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9071
+#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Mexico ➾ Movie",MX: Tlnovelas
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9141
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Movie",MX: Ultra Cine
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/167077
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Movie",MX: Ultra Clasico
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/167076
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Movie",MX: Ultra Docu
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298069
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Movie",MX: Ultra Familia
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/167075
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Movie",MX: Ultra Fiesta
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/167078
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Movie",MX: Ultra Macho
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/167081
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Movie",MX: Ultra Mex
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3160
+
+#EXTINF:0 tvg-id="AnimalPlanet.mx" group-title="Mexico ➾ Nature",MX: ANIMAL PLANET
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298043
+
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Azteca Mundo
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297204
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Canal 6 Saltillo
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/7045
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Canal 8 Costa Rica
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/31756
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Canal Internacional
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296519
+#EXTINF:0 tvg-id="CanalCapital21.mx" group-title="Mexico",MX: Capital 21
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/287632
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Como Dice El Dicho
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298052
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Cor TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/287634
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Corazon del la Capital
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296635
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Mexico",MX: Distrito Comedia
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9126
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Estrella Games
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298336
+#EXTINF:0 tvg-id="ForoTV.mx" group-title="Mexico",MX: Foro TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/5782
+#EXTINF:0 tvg-id="FoxSports.mx" group-title="Mexico",MX: FOX SPORTS
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/10925
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Mexico",MX: FOX SPORTS 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3043
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Mexico",MX: FOX SPORTS 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3044
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: FXM
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9079
+#EXTINF:0 tvg-id="Glitz.mx" group-title="Mexico",MX: Glitz
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9125
+#EXTINF:0 tvg-id="Golden.mx" group-title="Mexico",MX: Golden
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/5793
+#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Mexico",MX: Golden Edge
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9076
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Golden Premier
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3052
+#EXTINF:0 tvg-id="GolfChannel.mx" group-title="Mexico",MX: Golf Channel
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/49383
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: HGTV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/187048
+#EXTINF:0 tvg-id="ISat.mx" group-title="Mexico",MX: I Sat
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9121
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: ILCE
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296518
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Imagen TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9039
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Ingenio TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9147
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Investigation Discovery
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9056
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Jalisco TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/287636
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Justicia TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/7050
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: La Rosa De Guadalupe
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298059
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Las Estrellas
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3005
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Maria+Vision
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/163056
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Maria+Vision Medjugorje
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296514
+#EXTINF:0 tvg-id="MilenioTV.mx" group-title="Mexico",MX: Milenio TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/7067
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Morbido TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/198054
+#EXTINF:0 tvg-id="Multicinema.mx" group-title="Mexico",MX: Multicinema
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295813
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Multimedios Laguna
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/287639
+#EXTINF:0 tvg-id="Multipremier.mx" group-title="Mexico",MX: MultiPremier
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298164
+#EXTINF:0 tvg-id="NatGeo.mx" group-title="Mexico",MX: NAT GEO
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8725
+#EXTINF:0 tvg-id="NatGeoWild.mx" group-title="Mexico",MX: NAT GEO Wild
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9072
+#EXTINF:0 tvg-id="Nickelodeon.mx" group-title="Mexico",MX: nickelodeon
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9085
+#EXTINF:0 tvg-id="Nicktoons.mx" group-title="Mexico",MX: NickToons
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298064
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Nmas
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296521
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Once Mexico
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/7051
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Paramount Network
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9146
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: PX Sports
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/267264
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: RCG TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/163053
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: RTQ Queretaro
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/147900
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: SET Television Canal 26
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/287645
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Sistema Michoacano de TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296509
+#EXTINF:0 tvg-id="Space.mx" group-title="Mexico",MX: Space
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9136
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Sqcs
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297030
+#EXTINF:0 tvg-id="SyFy.mx" group-title="Mexico",MX: SYFY
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9081
+#EXTINF:0 tvg-id="TBS.mx" group-title="Mexico",MX: TBS
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9124
+#EXTINF:0 tvg-id="TCM.mx" group-title="Mexico",MX: TCM
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9131
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Tele Sistema Canal 9
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/287646
+#EXTINF:0 tvg-id="TeleFormula.mx" group-title="Mexico",MX: TeleFormula
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/31746
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Telemax
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/7080
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Teleritmo
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9066
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: TNT Series
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9139
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: TUDN
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/31784
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: TV Mas
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9097
+#EXTINF:0 tvg-id="TVMexiquense.mx" group-title="Mexico",MX: TV Mexiquense
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9104
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: TV Nuevo Leon 28
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296506
+#EXTINF:0 tvg-id="TVCDeportes.mx" group-title="Mexico",MX: TVC Deportes
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9075
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Mexico",MX: Unicable
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/5804
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Univision Tlnovelas
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/196608
+#EXTINF:0 tvg-id="ext" group-title="Mexico",MX: Video Rola
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/290484
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Mexico",MX: Warner TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9142
+
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Kids",MX: Baby TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295150
+#EXTINF:0 tvg-id="CartoonNetwork.mx" group-title="Mexico ➾ Kids",MX: Cartoon Network
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9043
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Kids",MX: Cartoonito
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9088
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Mexico ➾ Kids",MX: Discovery Kids
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9060
+#EXTINF:0 tvg-id="DisneyChannel.mx" group-title="Mexico ➾ Kids",MX: Disney Channel
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9086
+#EXTINF:0 tvg-id="DisneyJr.mx" group-title="Mexico ➾ Kids",MX: Disney Junior
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9042
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Kids",MX: Dream Works
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298055
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Kids",MX: Ultra Kidz
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/167080
+
+#EXTINF:0 tvg-id="Bandamax.mx" group-title="Mexico ➾ Music",MX: Bandamax
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9122
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Music",MX: Telehit Musica
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/31785
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Music",MX: Telehit Musica Plus
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298067
+
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Documentary",MX: Canal 4
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/7044
+#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title="Mexico ➾ Documentary",MX: Discovery Channel
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/280388
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Mexico ➾ Documentary",MX: Discovery H&H
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9110
+#EXTINF:0 tvg-id="DiscoverySci.mx" group-title="Mexico ➾ Documentary",MX: Discovery Science
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9059
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Documentary",MX: Discovery TLC
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9062
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Documentary",MX: History
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9050
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Documentary",MX: History 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/273073
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Documentary",MX: Mexico Travel Channel
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/163049
+
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ News",MX: Canal 6 Monterrey
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/267340
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ News",MX: N+ Media
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298165
+#EXTINF:0 tvg-id="ext" group-title="Mexico ➾ Food",MX: Food Network
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9116
